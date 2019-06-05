@@ -1,22 +1,9 @@
-
 {
   "nodes": [
     {
       "id": 1,
-      "name": "A",
+      "name": "A"
     },
-    {
-      "id": 11,
-      "name": "A1"
-    },
-    {
-      "id": 12,
-      "name": "A2"
-    },
-    {
-      "id": 13,
-      "name": "A3"
-    }, 
     {
       "id": 2,
       "name": "B"
@@ -58,18 +45,6 @@
     {
       "source": 1,
       "target": 2
-    },
-    {
-      "source": 1,
-      "target": 11
-    },
-    {
-      "source": 1,
-      "target": 12
-    },
-    {
-      "source": 1,
-      "target": 13
     },
     {
       "source": 2,
