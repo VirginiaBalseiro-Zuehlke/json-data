@@ -43,6 +43,14 @@
     {
       "id": 11,
       "name": "K"
+    },
+    {
+      "id": 12,
+      "name": "L"
+    },
+    {
+      "id": 13,
+      "name": "M"
     }
   ],
   "links": [
@@ -55,8 +63,12 @@
       "target": 11
     },
     {
-      "source": 2,
-      "target": 11
+      "source": 1,
+      "target": 12
+    },
+    {
+      "source": 1,
+      "target": 13
     },
     {
       "source": 2,
