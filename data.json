@@ -1,5 +1,6 @@
 {
-  { 
+  [
+  {
     "name": "Software Development Frontend",
     "topics": [
       {"name": "Augmented Reality"},
@@ -14,10 +15,12 @@
       {"name": "Data Science Practice"}
     ]
   },
-  { "name": "Software Development Backend",
+  { 
+    "name": "Software Development Backend",
     "topics": [
       {"name": "Blockchain"},
       {"name": "Azure"}
     ]
-  },
+  }
+  ]
 }
