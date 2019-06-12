@@ -1,22 +1,40 @@
 {
-  "name": "Software Development Frontend",
-  "topics": [
-      {"name": "Augmented Reality"},
-      {"name": "Mobile Practice"},
-      {"name": "Modern Web Development"}
-    ]
-},
-{ 
-  "name": "Data Science",
-  "topics": [
-      {"name": "Image Processing"},
-      {"name": "Data Science Practice"}
-    ]
-},
-{ 
-  "name": "Software Development Backend",
-  "topics": [
-      {"name": "Blockchain"},
-      {"name": "Azure"}
-    ]
+  "projects": [
+    {
+      "name": "Software Development Frontend",
+      "topics": [
+        {
+          "name": "Augmented Reality"
+        },
+        {
+          "name": "Mobile Practice"
+        },
+        {
+          "name": "Modern Web Development"
+        }
+      ]
+    },
+    {
+      "name": "Data Science",
+      "topics": [
+        {
+          "name": "Image Processing"
+        },
+        {
+          "name": "Data Science Practice"
+        }
+      ]
+    },
+    {
+      "name": "Software Development Backend",
+      "topics": [
+        {
+          "name": "Blockchain"
+        },
+        {
+          "name": "Azure"
+        }
+      ]
+    }
+  ]
 }
